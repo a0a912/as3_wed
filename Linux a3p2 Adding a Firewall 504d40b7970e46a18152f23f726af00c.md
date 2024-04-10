@@ -193,7 +193,6 @@ sudo nginx -t
 nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
 nginx: configuration file /etc/nginx/nginx.conf test is successful
 ```
-
-If all goes well, use postman to test if they work. Here is a screenshot of my postman
+If all goes well, use postman to test if they work. You might need to reload ufw and/or reboot your instance one more time to ensure it works. Here is a screenshot of my postman demonstrating it.
 
 ![Untitled](Linux%20a3p2%20Adding%20a%20Firewall%20504d40b7970e46a18152f23f726af00c/Untitled.png)
